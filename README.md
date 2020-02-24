@@ -1,6 +1,5 @@
-# boston_map
+# boston_map: Navigating Boston with Python, OpenStreetMap, and leaflet
 
-### Navigating Boston with Python: 
 
 Implementation for the backend for a route-finding application, which finds **shortest path**, and **fastest path** between any two locations.
 
