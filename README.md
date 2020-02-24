@@ -14,7 +14,10 @@ To try this tool, start the server by running server.py and providing name of th
 
 `python3 server.py cambridge`
 
-After the server has successfully started, navigate to http://localhost:6009/ in your web browser. Simply double-clicking on two locations to find and display a shortest path between them. Navigate to http://localhost:6009/?type=fast if want to search for fastest path instead.
+After the server has successfully started, navigate to http://localhost:6009/ (http://localhost:6009/?type=fast if you want to search for fastest path instead) in your web browser. Simply double-clicking on two locations to find and display a shortest path between them.
 
+![start_search](/start.png)
+![short_route](/short.png)
+![short vs fast](vs.png)
 
 
